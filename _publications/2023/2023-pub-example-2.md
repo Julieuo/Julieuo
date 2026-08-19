@@ -11,6 +11,4 @@ cover:          /assets/images/covers/fund.png
 authors:
 - Junfeng Zhu
 - X. Ren
-links:
-  Paper: YOUR_PAPER_LINK
 ---
