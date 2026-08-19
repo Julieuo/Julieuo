@@ -8,9 +8,6 @@ date: 2024-01-12 00:01:00 +0800
     <h2>What keeps me curious</h2>
     <hr />
     <p>
-        I play the <code>Chinese yangqin</code> , an instrument that traveled across cultures and gradually became something distinctly Chinese as it adapted to a new musical environment. What interests me most is the transformation process: a form can remain recognizable while being reshaped by the context around it. I also dance <code>Argentine tango</code>, where the music provides a structure, but the movement cannot simply be predetermined. It has to be interpreted and adjusted in real time, in response to a partner, the music, and the space.
-    </p>
-    <p>
-        Music often brings me back to the same questions I study, while animals keep me attentive to the immediate things happening around me.I live with two <code>British Shorthairs</code>, and I also volunteer in stray cat and dog rescue.
+        I play the <code>Chinese yangqin</code> , an instrument that first arrived in China centuries ago and gradually developed into the form played today. I like the idea that something can keep its basic identity while changing with the place and people around it. I also dance <code>Argentine tango</code>, which involves a very different kind of adaptation: the music gives you a structure, but every movement depends on your partner, the space, and the moment. One changes slowly over centuries; the other changes from second to second. In different ways, both have shaped how I think about adaptation, interpretation, and change.
     </p>
 </div>
