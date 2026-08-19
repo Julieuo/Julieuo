@@ -21,15 +21,15 @@ github: julieuo
 
 short_bio_text_justify: false
 short_bio: >-
-<p>
-I am a PhD student in Digital Transformation and Innovation (DTI) at the University of Ottawa. My research is driven by a broad question: how can systems built on past information and relatively fixed rules respond to a world that continues to change?
-</p>
-<p>
-My training in law and finance first introduced me to this tension: rules and models are created from existing knowledge, yet they must govern or predict situations that have not happened yet. My later work in AI psychology shifted this question toward artificial intelligence, leading me to study AI systems not only as computational models, but also as cognitive and behavioral agents whose reasoning can be observed and tested.
-</p>
-<p>
-Today, my research focuses on large language models. Once trained, an LLM is relatively fixed, while the information environment around it continues to evolve. I am particularly interested in what happens when that environment changes. My work on Generative Engine Optimization (GEO) uses such changes to examine how already-trained models respond to new, competing, or manipulated information.
-</p>
+ <p>
+  I am a PhD student in Digital Transformation and Innovation (DTI) at the University of Ottawa. My research is driven by a broad question: how can systems built on past information and relatively fixed rules respond to a world that continues to change?
+ </p>
+ <p>
+  My training in law and finance first introduced me to this tension: rules and models are created from existing knowledge, yet they must govern or predict situations that have not happened yet. My later work in AI psychology shifted this question toward artificial intelligence, leading me to study AI systems not only as computational models, but also as cognitive and behavioral agents whose reasoning can be observed and tested.
+ </p>
+ <p>
+  Today, my research focuses on large language models. Once trained, an LLM is relatively fixed, while the information environment around it continues to evolve. I am particularly interested in what happens when that environment changes. My work on Generative Engine Optimization (GEO) uses such changes to examine how already-trained models respond to new, competing, or manipulated information.
+ </p>
 portrait_url: /assets/images/photos/julie.jpg
 
 education:
