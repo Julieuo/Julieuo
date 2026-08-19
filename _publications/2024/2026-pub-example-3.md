@@ -6,7 +6,7 @@ pub:            "Practice Innovations"
 pub_date:       "2026"
 abstract: >-
   This study qualitatively examines users' experiences with large language models for mental health support, focusing on what users perceive as helpful, harmful, and consequential in their interactions with these systems.
-cover:          /assets/images/covers/llm-mental-health.jpg
+cover:          /assets/images/covers/llm-mental-health.png
 authors:
 - Yimeng Zhang
 - Xu Li
