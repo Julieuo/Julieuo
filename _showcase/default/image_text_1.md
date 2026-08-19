@@ -24,7 +24,7 @@ date: 2020-01-12 00:01:00 +0800
   </div>
 
   <!-- Right: cat photo -->
-  <div class="col-md-5">
+  <div class="col-md-7">
     <img
       src="{{ 'assets/images/etc/cat1.jpg' | relative_url }}"
       class="w-100 h-100"
