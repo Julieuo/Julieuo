@@ -1,6 +1,6 @@
 ---
 title:          "Wenchuan Earthquake Enhanced Collectivistic Expression in People's Daily"
-date:           2024-01-01 00:01:00 -0500
+date:           2024-08-16 00:01:00 -0500
 selected:       true
 pub:            "Proceedings of the 11th International Conference on Behavioural and Social Computing (BESC), IEEE"
 pub_date:       "2024"
