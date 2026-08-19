@@ -1,17 +1,13 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Wenchuan Earthquake Enhanced Collectivistic Expression in People's Daily"
+date:           2024-01-01 00:01:00 -0500
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+pub:            "Proceedings of the 11th International Conference on Behavioural and Social Computing (BESC), IEEE"
+pub_date:       "2024"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
-cover:          /assets/images/covers/cover1.jpg
+  This study examines how the Wenchuan earthquake influenced collectivistic expression in People's Daily, providing evidence that major disasters can reshape patterns of collective language and social expression.
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
-links:
-  Paper: https://www.cell.com
+- Penghao Mao
+- Junfeng Zhu
+- X. Ren
 ---
