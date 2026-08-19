@@ -5,19 +5,12 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>What keeps me curious</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        I play the <code>Chinese yangqin</code> , an instrument that traveled across cultures and gradually became something distinctly Chinese as it adapted to a new musical environment. What interests me most is the transformation process: a form can remain recognizable while being reshaped by the context around it. I also dance <code>Argentine tango</code>, where the music provides a structure, but the movement cannot simply be predetermined. It has to be interpreted and adjusted in real time, in response to a partner, the music, and the space.
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
-    </p>
-    <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
-    </p>
-    <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+        I live with two British Shorthairs, and I also volunteer in stray cat and dog rescue.
     </p>
 </div>
