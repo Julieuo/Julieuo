@@ -6,6 +6,7 @@ pub:            "Proceedings of the 11th International Conference on Behavioural
 pub_date:       "2024"
 abstract: >-
   This study tests whether language-based psychological signals reflect a general response to real-world crises by extending the analysis to the Wenchuan earthquake. The results show that large-scale textual data can capture shifts in collective psychological states following acute societal trauma.
+cover:          /assets/images/covers/expression.png
 authors:
 - Penghao Mao
 - Junfeng Zhu
