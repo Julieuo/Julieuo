@@ -7,7 +7,7 @@ date: 2020-01-12 00:01:00 +0800
 <div class="row no-gutters align-items-stretch">
 
   <!-- Left: text -->
-  <div class="col-md-5">
+  <div class="col-md-4">
     <div class="p-4 h-100 d-flex flex-column justify-content-center">
       <h5 class="card-title">A furry world</h5>
 
@@ -24,7 +24,7 @@ date: 2020-01-12 00:01:00 +0800
   </div>
 
   <!-- Right: cat photo -->
-  <div class="col-md-7">
+  <div class="col-md-8">
     <img
       src="{{ 'assets/images/etc/cat1.jpg' | relative_url }}"
       class="w-100 h-100"
