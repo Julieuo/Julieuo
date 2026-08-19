@@ -1,24 +1,16 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
-selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
+title:          "Machine Learning Approach to Sentiment Recognition from Periodic Reports"
+date:           2023-01-01 00:01:00 -0500
+selected:       true
+pub:            "Proceedings of the 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI), IEEE"
 pub_date:       "2023"
-semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
-  The tangerine is a type of citrus fruit that is orange in color, that is considered either a variety of Citrus reticulata, the mandarin orange, or a closely related species, under the name Citrus tangerina, or yet as a hybrid (Citrus × tangerina) of mandarin orange varieties, with some pomelo contribution.
-  According to the Oxford English Dictionary (OED), the word "tangerine" was originally an adjective meaning "Of or pertaining to, or native of Tangier, a seaport in Morocco, on the Strait of Gibraltar" and "a native of Tangier." The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. The OED cites this usage from Addison's The Tatler in 1710 with similar uses from the 1800s. The adjective was applied to the fruit, once known scientifically as "Citrus nobilis var. tangeriana" which grew in the region of Tangiers. This usage appears in the 1800s.
-
-cover:          /assets/images/covers/cover2.jpg
+  abstract: >-
+  Using data from 4,142 publicly offered mutual funds in China, this study constructs a fund-manager sentiment index from periodic reports using natural language processing. The results show that managers’ positive and negative market sentiment signals are closely associated with stock-market movements, demonstrating the potential of NLP to measure psychological variables at scale.
+cover:          /assets/images/covers/fund.png
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+- Junfeng Zhu
+- X. Ren
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper: YOUR_PAPER_LINK
 ---
