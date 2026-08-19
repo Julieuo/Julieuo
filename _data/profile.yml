@@ -34,12 +34,15 @@ portrait_url: /assets/images/photos/julie.jpg
 education:
 - name: University of Ottawa
   logo: /assets/images/photos/university-of-ottawa-logo-png.png
-  position: >- 
-    School of Engineering Design and Teaching Innovation <br/>
-    Ph.D. Student
+  dept: School of Engineering Design and Teaching Innovation
+  position: Ph.D. Student
+
 - name: Chinese Academy of Sciences
   logo: /assets/images/photos/CAS.jpg
+  dept: Institute of Psychology
   position: M.Sc.
+
 - name: Zhongnan University of Economics and Law
   logo: /assets/images/photos/znuel.png
-  position: LL.B. & B.Econ.
+  dept: School of Law
+  position: LL.B. and B.Econ.
